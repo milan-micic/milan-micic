@@ -25,11 +25,13 @@
   <img alt="Sandman's GitHub Stats" src="https://github-readme-stats.milan-micic.vercel.app/api?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />
 
   <img align="right" alt="Sandman's GitHub Top Langs" src="https://github-readme-stats.milan-micic.vercel.app/api/top-langs/?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />  
+ 
+<br /> 
 <br />
-<br />  
+ 
+--- 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 </details>
 
----
