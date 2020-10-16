@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sandman Spotify Playing" width="350" />](https://open.spotify.com/playlist/0Mm3V0BYbAA87jGLpHb6zM) -->
+[<img src="https://novatorem.milan-micic.vercel.app/api/spotify" alt="Sandman Spotify Playing" />](https://open.spotify.com/user/bb718e6e7d5f49658b1e03fed9b46ae3)
 
 
 ---
