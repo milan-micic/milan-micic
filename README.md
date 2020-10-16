@@ -10,10 +10,26 @@
 - 🥅 2021 Goals: full time web-dev jobs
 - ⚡ Fun fact: I love to play guitar
 
+---
+
 ### Spotify Playing 🎧
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sandman Spotify Playing" width="350" />](https://open.spotify.com/playlist/0Mm3V0BYbAA87jGLpHb6zM) -->
 
-[![Sandman's github stats](https://github-readme-stats.milan-micic.vercel.app/api?username=milan-micic)](https://github.com/milan-micic/github-readme-stats&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.milan-micic.vercel.app/api/top-langs/?username=milan-micic)](https://github.com/milan-micic/github-readme-stats)
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img alt="Sandman's GitHub Stats" src="https://github-readme-stats.milan-micic.vercel.app/api?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />
+
+  <img align="right" alt="Sandman's GitHub Top Langs" src="https://github-readme-stats.milan-micic.vercel.app/api/top-langs/?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />  
+<br />
+<br />  
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+</details>
+
+---
