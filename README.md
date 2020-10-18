@@ -2,7 +2,7 @@
 
 [<img src="the-sandman.png" alt="sandman endless" height="250" />](https://en.wikipedia.org/wiki/Dream_(character))[<img src="sandman i death.jpg" alt="sandman i death endless" height="250" />](https://en.wikipedia.org/wiki/The_Sandman_(Vertigo))[<img src="death-the-time-of-your-life.png" alt="death endless" height="250" />](https://en.wikipedia.org/wiki/Death_(DC_Comics))  
 
-## I'm a :video_game: Games, :movie_camera: Movies, :books: Books, and :notebook_with_decorative_cover: Comics :supervillain: Freak !!
+## I'm a :video_game: Game's, :movie_camera: Movie's, :books: Book's and :notebook_with_decorative_cover: Comic's :supervillain: Freak !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other video-game porters
