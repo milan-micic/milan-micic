@@ -18,6 +18,7 @@
 
 ## Connect with me:
 
+[<img align="left" alt="Sandman | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Sandman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sandman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sandman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,26 +28,26 @@
 
 ## Language: 
 ### Knowing :arrow_right: Learning
-<img align="left" alt="BASIC" width="40px" src="https://banner2.cleanpng.com/20180519/rcs/kisspng-visual-basic-6-for-dummies-amazon-com-programming-5afff4aef29e08.3465531515267237589938.jpg" />
-<img align="left" alt="Delphi 7" width="40px" src="https://camo.githubusercontent.com/2621bd3459e6610f46f5a7c6dc4559dc98c1fc66/68747470733a2f2f7777772e616e647265616d61676e692e65752f696d616765732f534472697665722e706e67" />
-<img align="left" alt="Action Script 3" width="40px" src="http://www.kylecheney.com/images/icons/icon.AS3.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+[<img align="left" alt="BASIC" width="40px" src="https://banner2.cleanpng.com/20180519/rcs/kisspng-visual-basic-6-for-dummies-amazon-com-programming-5afff4aef29e08.3465531515267237589938.jpg" />](https://www.pagetable.com/?p=43)
+[<img align="left" alt="Delphi 7" width="40px" src="https://camo.githubusercontent.com/2621bd3459e6610f46f5a7c6dc4559dc98c1fc66/68747470733a2f2f7777772e616e647265616d61676e692e65752f696d616765732f534472697665722e706e67" />](https://www.embarcadero.com/products/delphi)
+[<img align="left" alt="Action Script 3" width="40px" src="http://www.kylecheney.com/images/icons/icon.AS3.svg" />](https://www.adobe.com/products/flex.html)
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net)
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org)
 
 <br />
 <br />
 
 ## Tools:
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="Photoshop" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Gimp" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/download)
+[<img align="left" alt="Sublime Text 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />](https://www.sublimetext.com/download)
+[<img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://www.vim.org/download.php)
+[<img align="left" alt="Photoshop" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />](https://www.adobe.com/products/photoshop.html)
+[<img align="left" alt="Gimp" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" />](https://www.gimp.org/downloads/)
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://dev.to/dylantientcheu/transforming-your-ugly-windows-terminal-to-a-unicorn-577k)
 
 <br />
 <br />
@@ -69,7 +70,8 @@
 
 </details>
 
+[gmail]: mailto:milan.micic@gmail.com
 [facebook]: https://www.facebook.com/mr.sendmen
 [twitter]: https://twitter.com/mr_sendmen
 [instagram]: https://www.instagram.com/mrsendmen/
-[linkedin]: https://www.facebook.com/mr.sendmen
+[linkedin]: https://www.linkedin.com/in/mrsendmen/
