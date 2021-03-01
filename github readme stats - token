@@ -1,0 +1,24 @@
+github readme stats - token
+b891c661588eb86f24e96934115117b74d9820be
+
+spotify:
+Client ID bb718e6e7d5f49658b1e03fed9b46ae3
+
+Client Secret 146679dac9c4485fbb757f3530665561
+
+https://accounts.spotify.com/authorize?client_id=bb718e6e7d5f49658b1e03fed9b46ae3&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+
+
+AQDZxgJEj2CcYDjiEGvikTSkaVVybieBFbSlZasCdwyvW4w-ZmVfp8XPQnz3vvczIdd-IFi6a5dh_-t2Bp9TLgedxFDt9BwwWRumTMTA6pNssbsvoupqiRq_IDNRZyBIHL-8MdsfDstebtabUywUOfR9H4Tfi5KAyj2A-l9ulgfkDh-rQa_e9qgZYl7i8osHO_tz7UAUTup2SDfAdkZVyur9Ogui2CuVA0LWUonnsOHRC3yknMU
+
+YmI3MThlNmU3ZDVmNDk2NThiMWUwM2ZlZDliNDZhZTM6MTQ2Njc5ZGFjOWM0NDg1ZmJiNzU3ZjM1MzA2NjU1NjE=
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic YmI3MThlNmU3ZDVmNDk2NThiMWUwM2ZlZDliNDZhZTM6MTQ2Njc5ZGFjOWM0NDg1ZmJiNzU3ZjM1MzA2NjU1NjE=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQDepXDP2uMlpV6PkWD1C9HyZb6Z-_iRBjZw6eGq83VPuGLS8vkKT7-_gRMuX1sqCGJRKH6trrvzi8ZtTM5tq_ZGmubtGXePteAaBwqH26jN-7WnvDmlT9na80NYWiSqN4PslTCEtQywLbWGIsRxTuF4bspIJCIW-ykMtvEZuQEiEbj_0yBQh_VySIMt1jOJOZ-kS5Q25TDPPxBze0rY6NnKMh6-V7mE79Jfv8IAYHvBksp_EY0" https://accounts.spotify.com/api/token
+
+refres token
+
+AQCz_R_EAuNakehWpK8ZywTRHQHUlPxB1nzJEiS_mDZemmO8beKt-WuAydIl8-6GuScBrlg2zFg1S8rwS7IcRRRump0e1JgVwjrw6L7sezMOeSNHP37lUZZy1AdQrl8a8L8
+
+https://novatorem.milan-micic.vercel.app/
+
+[![Spotify](https://novatorem.milan-micic.vercel.app/api/spotify)](https://open.spotify.com/user/bb718e6e7d5f49658b1e03fed9b46ae3)
