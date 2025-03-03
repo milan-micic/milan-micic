@@ -59,7 +59,7 @@
 
   <img alt="Sandman's GitHub Stats" src="https://github-readme-stats.milan-micic.vercel.app/api?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />
 
-  <img align="right" alt="Sandman's GitHub Top Langs" src="https://github-readme-stats.milan-micic.vercel.app/api/top-langs/?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />  
+  <img align="right" alt="Sandman's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />  
  
 <br /> 
 <br />
