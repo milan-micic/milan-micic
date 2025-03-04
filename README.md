@@ -1,77 +1,35 @@
-### Hi there, I'm Milan - aka Sandman  
+# Hi 👋! My name is Milan and I'm a developer from Serbia
 
 [<img src="the-sandman.png" alt="sandman endless" height="250" />](https://en.wikipedia.org/wiki/Dream_(character))[<img src="sandman i death.jpg" alt="sandman i death endless" height="250" />](https://en.wikipedia.org/wiki/The_Sandman_(Vertigo))[<img src="death-the-time-of-your-life.png" alt="death endless" height="250" />](https://en.wikipedia.org/wiki/Death_(DC_Comics))  
 
-## I'm a :video_game: Game's, :movie_camera: Movie's, :books: Book's and :notebook_with_decorative_cover: Comic's :supervillain: Freak !!
+# 💫 About Me:
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other video-game porters
-- 🔭 I’m looking to Contribute to Open Source projects
-- 🥅 2021 Goals: full time web-dev jobs
-- ⚡ Fun fact: I love to play guitar
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.sendmen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsendmen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrsendmen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milan.micic@gmail.com) 
 
-### Spotify Playing 🎧
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=milan-micic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=milan-micic&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milan-micic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[<img src="https://novatorem.milan-micic.vercel.app/api/spotify" alt="Sandman Spotify Playing" />](https://open.spotify.com/user/bb718e6e7d5f49658b1e03fed9b46ae3)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=milan-micic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Connect with me:
-
-[<img align="left" alt="Sandman | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Sandman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sandman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sandman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Sandman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-## Language: 
-### Knowing :arrow_right: Learning
-[<img align="left" alt="BASIC" width="40px" src="https://banner2.cleanpng.com/20180519/rcs/kisspng-visual-basic-6-for-dummies-amazon-com-programming-5afff4aef29e08.3465531515267237589938.jpg" />](https://www.pagetable.com/?p=43)
-[<img align="left" alt="Delphi 7" width="40px" src="https://camo.githubusercontent.com/2621bd3459e6610f46f5a7c6dc4559dc98c1fc66/68747470733a2f2f7777772e616e647265616d61676e692e65752f696d616765732f534472697665722e706e67" />](https://www.embarcadero.com/products/delphi)
-[<img align="left" alt="Action Script 3" width="40px" src="http://www.kylecheney.com/images/icons/icon.AS3.svg" />](https://www.adobe.com/products/flex.html)
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net)
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org)
-
-<br />
-<br />
-
-## Tools:
-
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/download)
-[<img align="left" alt="Sublime Text 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />](https://www.sublimetext.com/download)
-[<img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://www.vim.org/download.php)
-[<img align="left" alt="Photoshop" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />](https://www.adobe.com/products/photoshop.html)
-[<img align="left" alt="Gimp" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" />](https://www.gimp.org/downloads/)
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://dev.to/dylantientcheu/transforming-your-ugly-windows-terminal-to-a-unicorn-577k)
-
-<br />
-<br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=milan-micic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=milan-micic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br clear="both">
 
-  <img alt="Sandman's GitHub Stats" src="https://github-readme-stats.milan-micic.vercel.app/api?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />
-
-  <img align="right" alt="Sandman's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-micic&show_icons=true&theme=dracula&hide_border=true" />  
- 
-<br /> 
-<br />
- 
---- 
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-</details>
-
-[gmail]: mailto:milan.micic@gmail.com
-[facebook]: https://www.facebook.com/mr.sendmen
-[twitter]: https://twitter.com/mr_sendmen
-[instagram]: https://www.instagram.com/mrsendmen/
-[linkedin]: https://www.linkedin.com/in/mrsendmen/
+<img src="https://raw.githubusercontent.com/milan-micic/milan-micic/output/snake.svg" alt="Snake animation" />
